@@ -1,5 +1,5 @@
-SignalRChatApp
-==============
+Chat Application with SignalR and ASP.net MVC 4
+===============================================
 
 This is an example chat application implemented in ASP.NET MVC 4 using SignalR. The code accompanies a [Tutorial of Tech.Pro "Chat Application with SignalR and ASP.net MVC 4"](http://tech.pro/tutorial/1491/chat-application-with-signalr-and-aspnet-mvc-4). This article is a basic walk through covering :
 
