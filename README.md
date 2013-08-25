@@ -7,6 +7,6 @@ This article is a basic walk through covering :
 * About SignalR.That is a framework for building real-time web applications
 * How to add SignalR to an ASP.NET MVC 4 application
 * How to create a hub class for real-time massaging
-* How to send and receive messages from the hub
+* How to send and receive messages from the hub and much much more ...
 
 
